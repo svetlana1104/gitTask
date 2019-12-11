@@ -1,10 +1,10 @@
 1.txt: Line 1 updated line1 8 item of task
 1.txt: Line 2 updated line2 8 item of task
-1.txt: Line 3
+1.txt: Line 3 folder1:git_0 item 20 of task
 1.txt: Line 4
 1.txt: Line 5 folder2:git_0, item 18 of task
 1.txt: Line 6 folder2:git_0, item 18 of task
-1.txt: Line 7
-1.txt: Line 8
+1.txt: Line 7 folder1:git_0 item 19 of task
+1.txt: Line 8 folder1:git_0 item 19 of task
 1.txt: Line 9 updated line9 7 item of task
 1.txt: Line 10 updated file10 7 item of task
